@@ -12525,7 +12525,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyuseforma": {
     "value": "Polarized",
-    "desc": "Use Forma 3 times"
+    "desc": "使用1次Forma"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
     "value": "Venus Bounty Hunter",
@@ -12584,8 +12584,8 @@
     "desc": "Defeat the Ropalolyst"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillsilvergrovespecters": {
-    "value": "Grove Guardian",
-    "desc": "Kill 3 Silver Grove Specters"
+    "value": "樹庭守護者",
+    "desc": "擊殺1名落銀樹庭魅影"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillthumper": {
     "value": "Walk Without Rhythm",
